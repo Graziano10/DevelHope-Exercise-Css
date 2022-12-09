@@ -1,0 +1,51 @@
+
+
+body {
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+}
+
+article {
+    padding: 13px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: gray;
+    border-width: 1px;
+}
+
+.p-1 {
+    padding: 13px;
+    border-bottom-style: solid;
+    border-color: gray;
+    border-width: 1px;
+}
+
+.p-2 {
+    padding: 13px;
+    border-bottom-style: solid;
+    border-color: gray;
+    border-width: 1px;
+}
+
+.p-3 {
+    padding: 13px;
+    border-bottom-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    padding-top: -20%;
+}
+
+img {
+    width: 50%;
+}
+
+a {
+    padding: 10px;
+}
+
+.link-02 {
+    padding-left: 7px;
+}
