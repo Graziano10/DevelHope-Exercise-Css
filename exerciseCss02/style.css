@@ -1,0 +1,39 @@
+
+
+body {
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    padding-bottom: 15px;
+}
+
+article {
+    padding: 13px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: gray;
+    border-width: 1px;
+}
+
+.paragraph-out {
+    padding: 13px;
+    border-bottom-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    padding-top: 5px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+a {
+    padding: 10px;
+}
+
+.link-02 {
+    padding-left: 7px;
+}
