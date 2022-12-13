@@ -1,0 +1,34 @@
+
+
+.content{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-areas:
+    "nav nav nav nav nav"
+    "main main content content sidebar"
+    "main main content content sidebar"
+    "footer footer footer footer sidebar";
+}
+
+
+.green {
+    grid-area: nav;
+
+}
+
+.yellow {
+    grid-area: main;
+
+}
+
+.orange {
+    grid-area: footer;
+}
+
+.red {
+    grid-area: content;
+}
+
+.blue {
+    grid-area: sidebar;
+}
