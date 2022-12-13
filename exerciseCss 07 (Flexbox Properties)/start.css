@@ -1,0 +1,30 @@
+
+
+.vertical {
+    display: flex;
+    flex-direction: row-reverse;
+} 
+
+.order-green {
+    order: 4;
+}
+
+.order-yellow {
+    order: 5;
+}
+
+.order-orange {
+    order: 3;
+    flex-grow: 2;
+}
+
+.order-red {
+    order: 4;
+}
+
+.order-blu {
+    order: 1;
+
+}
+
+
